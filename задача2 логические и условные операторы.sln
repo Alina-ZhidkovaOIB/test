@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "задача2 логические и условные операторы", "задача2 логические и условные операторы\задача2 логические и условные операторы.pyproj", "{3856C090-614A-4775-8E33-7EF7F36AB5BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3856C090-614A-4775-8E33-7EF7F36AB5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3856C090-614A-4775-8E33-7EF7F36AB5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE3C2FC2-3356-4D52-8F9A-C790CBB1787F}
+	EndGlobalSection
+EndGlobal
