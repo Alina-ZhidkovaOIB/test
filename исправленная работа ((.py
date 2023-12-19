@@ -1,0 +1,6 @@
+type = input("Кто ваш питомец? ")name = input("Имя вашего питомца? ")
+age = int(input("Возраст вашего питомца "))
+    print("...")
+print("Ведите стадии развития человека через запятую")a = input()
+b = input()c = input() 
+print(a, b, c, sep="=>")
